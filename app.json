@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "simple-notes-app",
+    "slug": "simple-notes-app",
+    "version": "0.0.1",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.stvswim.simplenotesapp"
+    }
+  }
+}
